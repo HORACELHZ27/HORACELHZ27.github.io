@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HORACE的博客</title>
+    <link>http://HORACELHZ27.github.io/</link>
+    <description>Recent content on HORACE的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://HORACELHZ27.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HORACE的学校</title>
+      <link>http://HORACELHZ27.github.io/docs/horace%E7%9A%84%E5%AD%A6%E6%A0%A1/</link>
+      <pubDate>Fri, 27 Jan 2023 14:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/docs/horace%E7%9A%84%E5%AD%A6%E6%A0%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HORACE的高中</title>
+      <link>http://HORACELHZ27.github.io/docs/horace%E7%9A%84%E9%AB%98%E4%B8%AD/</link>
+      <pubDate>Sat, 28 Jan 2023 14:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/docs/horace%E7%9A%84%E9%AB%98%E4%B8%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HORACE的一篇文章</title>
+      <link>http://HORACELHZ27.github.io/docs/horace%E7%9A%84%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sat, 28 Jan 2023 14:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/docs/horace%E7%9A%84%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>今天的HORACE</title>
+      <link>http://HORACELHZ27.github.io/post/%E4%BB%8A%E5%A4%A9%E7%9A%84horace/</link>
+      <pubDate>Sat, 28 Jan 2023 14:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/post/%E4%BB%8A%E5%A4%A9%E7%9A%84horace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HORACE的联系方式</title>
+      <link>http://HORACELHZ27.github.io/horace%E7%9A%84%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/horace%E7%9A%84%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于这篇网站的构想</title>
+      <link>http://HORACELHZ27.github.io/post/%E5%85%B3%E4%BA%8E%E8%BF%99%E7%AF%87%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%84%E6%83%B3/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/post/%E5%85%B3%E4%BA%8E%E8%BF%99%E7%AF%87%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%84%E6%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>喜欢的文章和音乐</title>
+      <link>http://HORACELHZ27.github.io/post/%E5%96%9C%E6%AC%A2%E7%9A%84%E6%96%87%E7%AB%A0%E5%92%8C%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/post/%E5%96%9C%E6%AC%A2%E7%9A%84%E6%96%87%E7%AB%A0%E5%92%8C%E9%9F%B3%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

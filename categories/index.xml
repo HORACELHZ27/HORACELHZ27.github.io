@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HORACE的博客</title>
+    <link>http://HORACELHZ27.github.io/categories/</link>
+    <description>Recent content in Categories on HORACE的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://HORACELHZ27.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QQ</title>
+      <link>http://HORACELHZ27.github.io/categories/qq/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/categories/qq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗人</title>
+      <link>http://HORACELHZ27.github.io/categories/%E8%AF%97%E4%BA%BA/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/categories/%E8%AF%97%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小说</title>
+      <link>http://HORACELHZ27.github.io/categories/%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/categories/%E5%B0%8F%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习</title>
+      <link>http://HORACELHZ27.github.io/categories/%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/categories/%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音乐</title>
+      <link>http://HORACELHZ27.github.io/categories/%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/categories/%E9%9F%B3%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>邮箱</title>
+      <link>http://HORACELHZ27.github.io/categories/%E9%82%AE%E7%AE%B1/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://HORACELHZ27.github.io/categories/%E9%82%AE%E7%AE%B1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
